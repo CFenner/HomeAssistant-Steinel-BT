@@ -1,5 +1,8 @@
 # HomeAssistant-Steinel-BT
-Integration for Steinel Bluetooth Mesh Luminairs into Home Assistant
+
+**THIS INTEGRATION IS IN DEVELOPMENT**
+
+Integration for Steinel Bluetooth Luminairs into Home Assistant.
 
 ## Installation
 
