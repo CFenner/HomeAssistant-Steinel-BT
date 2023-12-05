@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "bluetooth": [
     {
-      "service_uuid": "",
+      "service_uuid": "2672b000-875a-47ff-b1ef-f3f6872db917",
       "connectable": true
     }
   ],
